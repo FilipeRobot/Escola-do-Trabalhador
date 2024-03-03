@@ -1,6 +1,6 @@
 # Curso Escrever meu primeiro código C#
 
-Você quer aprender uma linguagem de programação, mas não sabe por onde começar? Comece aqui! Aprenda a sintaxe básica e os processos de pensamento necessários para criar aplicativos simples usando o C#. 
+Aprenda a sintaxe básica e os processos de pensamento necessários para criar aplicativos simples usando o C#. 
 
 ## Objetivos
 
